@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/fvhmifvreed?logo=twitter&style=for-th
 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" width="36" height="36" alt="GIT" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg](https://www.svgrepo.com/download/303301/postgresql-logo.svg)" width="36" height="36" alt="Postgresql" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" width="36" height="36" alt="Postgresql" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="36" height="36" alt="PYTHON" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="36" height="36" alt="UBUNTU" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
