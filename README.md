@@ -1,4 +1,4 @@
-<p align="center"><img alt="a black background with white text Hello, I am Fahmi Fareed" src="./assets/fahmi-twitter-32k.png"></p>
+<p align="center"><img alt="a black background with white text Hello, I am Fahmi Fareed" src="./assets/fahmi-fareed.png"></p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahmi_Fareed" target="blank"><img src="./assets/fahmi-twitter-32k.png" height="36" alt="fvhmifvreed"/></a></p>
 
