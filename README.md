@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center"><img alt="a black background with white text Hello, I am Fahmi Fareed" src="./assets/fahmi-twitter-32k.png"></p>
 
-<!--
-**fahmifareed/fahmifareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahmi_Fareed" target="blank"><img src="./assets/fahmi-twitter-32k.png" height="36" alt="fvhmifvreed"/></a></p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a DevOps and Go developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
+  
+</div>
+
+<div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
+<br/> Logs are crucial for understanding the inner workings of an application, whether it's to ensure it performs as expected or to help in debugging when encountering errors.
+However, consider a scenario where one of your teammates is working and developi... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
+### Achievements
+
