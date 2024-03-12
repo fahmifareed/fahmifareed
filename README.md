@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I am a DevOps and Go developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
+I am a DevOps and Python developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
 
