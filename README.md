@@ -3,7 +3,9 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=Fahmi_Fareed" target="blank"><img src="./assets/fahmi-twitter-32k.png" height="36" alt="fvhmifvreed"/></a></p>
 
 <div align="center">
-
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+  ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 I am a DevOps and Python developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
