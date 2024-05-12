@@ -16,7 +16,8 @@ Regular speaker at conferences and meetups, and enjoy sharing knowledge and tech
 </div>
 
 ## Certifications and Awards:
-[Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
+[Link to openprofile.dev](https://openprofile.dev/profile/fahmifarid)
+
 
 <div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
 <br/> Logs are crucial for understanding the inner workings of an application, whether it's to ensure it performs as expected or to help in debugging when encountering errors.
