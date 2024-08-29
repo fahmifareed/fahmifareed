@@ -1,7 +1,9 @@
+
+
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
-  
+
 ## 🚀 About Me
 
 I'm Fahmi Fareed, a passionate DevOps Engineer and Python Programmer with a strong focus on automating infrastructure and improving software development processes. I enjoy solving complex problems and continuously improving workflows and systems.
@@ -18,8 +20,9 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 </p>
 
 </div>
-<p align="center">
-  
+
+<div align="center">
+
  ## :gift: :card_index: Certifications and Awards:
 
 <p align="center">
