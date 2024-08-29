@@ -18,14 +18,18 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 
 </div>
 
-<div align="center">
-## :gift: :card_index: Certifications and Awards:
-[Link to openprofile.dev](https://openprofile.dev/profile/fahmifarid)
 
+<p align="center">
+  ## :gift: :card_index: Certifications and Awards:
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="100" height="100">
+  <img src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="100" height="100">
+</p>
 
-[Google Professional Cloud Architect](https://openprofile.dev/profile/fahmifarid)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) 
-<div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024
+<p align="center">
+  <a href="https://www.credly.com/users/fahmi-farid/badges">
+    <img src="https://img.shields.io/badge/View%20on-Credly-orange" alt="View on Credly" style="border: none;">
+  </a>
+</p>
 
 
 ## 🛠️ Skills & Tools
