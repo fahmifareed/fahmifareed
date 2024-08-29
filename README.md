@@ -17,11 +17,12 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 </p>
 
 </div>
-
+<p align="center">
+ ## :gift: :card_index: Certifications and Awards:
+</p>
 
 <p align="center">
-  ## :gift: :card_index: Certifications and Awards:
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="100" height="100">
+   <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="100" height="100">
   <img src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="100" height="100">
 </p>
 
