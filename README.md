@@ -1,6 +1,7 @@
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
+  
 ## 🚀 About Me
 
 I'm Fahmi Fareed, a passionate DevOps Engineer and Python Programmer with a strong focus on automating infrastructure and improving software development processes. I enjoy solving complex problems and continuously improving workflows and systems.
@@ -18,8 +19,8 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 
 </div>
 <p align="center">
+  
  ## :gift: :card_index: Certifications and Awards:
-</p>
 
 <p align="center">
    <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="100" height="100">
@@ -63,3 +64,4 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 
 ![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahmifareed&show_icons=true&theme=radical)
 
+</p>
