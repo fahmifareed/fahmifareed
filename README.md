@@ -1,3 +1,12 @@
+<p align="center">
+    <a href="https://fahmi.xyz">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fahmifareed/fahmifareed/blob/main/Black%20and%20White%20Circle%20Business%20Logo.png">
+            <img src="https://github.com/fahmifareed/fahmifareed/blob/main/Black%20and%20White%20Circle%20Business%20Logo.png" height="100">
+        </picture>
+    <h1 align="center">Fahmi Farid - DevOps Engineer</h1>
+    </a>
+</p>
 
 
 <!-- HASHNODE_BLOG:END -->
