@@ -5,7 +5,8 @@
             <img src="https://github.com/fahmifareed/fahmifareed/blob/main/Black%20and%20White%20Circle%20Business%20Logo.png" height="100">
         </picture>
         
-   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=30&pause=1000&color=2683AC&width=435&lines=Fahmi+Fareed+-+DevOps+Engineer" alt="Typing SVG" /></a>
+   <p align="center"> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=30&pause=1000&color=2683AC&width=435&lines=Fahmi+Fareed+-+DevOps+Engineer" alt="Typing SVG" /></a>
     </a>
 </p>
 
