@@ -51,27 +51,34 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 ## 🛠️ Skills & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) 
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,yaml" />
+  </a>
+</p>
 
 ### DevOps Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,terraform,jenkins,linux,nginx" />
+  </a>
+</p>
+
 
 ### Cloud Providers
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,azure,gcp,aws" />
+  </a>
+</p>
+
 
 ### Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) 
-![ELK Stack](https://img.shields.io/badge/ELK-005571?logo=elastic-stack&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,splunk,elastic" />
+  </a>
+</p>
 
 
 ## 📈 GitHub Stats
