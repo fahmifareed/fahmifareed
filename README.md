@@ -60,7 +60,7 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 ### DevOps Tools
 <p align="center">
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,docker,ansible,terraform,jenkins,linux,gitkraken,openshift" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,docker,ansible,circleci,terraform,jenkins,linux,gitkraken,openshift" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 ### Cloud Providers
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">githubactions
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,azure,gcp,aws" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,gcp,aws" />
   </a>
 </p>
 
