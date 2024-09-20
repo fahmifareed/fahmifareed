@@ -53,7 +53,7 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 ### Languages
 <p align="center">
  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,yaml" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,yaml,bootstrap" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 
 ### Cloud Providers
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://go-skill-icons.vercel.app/">githubactions
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,azure,gcp,aws" />
   </a>
 </p>
@@ -76,7 +76,7 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 ### Monitoring & Logging
 <p align="center">
  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,splunk,elastic" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,splunk,argocd" />
   </a>
 </p>
 
