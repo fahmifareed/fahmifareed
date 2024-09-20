@@ -52,31 +52,31 @@ Welcome to my GitHub page, hopefully you will find something useful here.
 
 ### Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,yaml" />
+ <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,yaml" />
   </a>
 </p>
 
 ### DevOps Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,terraform,jenkins,linux,nginx" />
+   <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,ansible,terraform,jenkins,linux,nginx" />
   </a>
 </p>
 
 
 ### Cloud Providers
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,gcp,aws" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,azure,gcp,aws" />
   </a>
 </p>
 
 
 ### Monitoring & Logging
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,splunk,elastic" />
+ <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,splunk,elastic" />
   </a>
 </p>
 
